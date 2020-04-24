@@ -1,6 +1,5 @@
 # Dashboard
 
-# LIDAR- [LIDAR](#lidar)
   - [Missions](#missions)
   - [Usage](#usage)
   - [Relevant links](#relevant-links)
