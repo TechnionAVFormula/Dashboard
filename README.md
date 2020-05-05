@@ -14,21 +14,25 @@ The dashboard offers a visual tool for debugging our performances in a frame-by-
   - [Relevant links](#relevant-links)
 
 ## Requirements
-#### 
 ``` 
 pip install dash==1.11.0
 ```
 
 
 ## Usage
-#### In your terminal: run Script.py
+#### 1. In your terminal: run Script.py
 ``` 
-1) python .\Script.py 
-2) enter the web using the http IP address (press <ctrl>+<click>)
+python .\Script.py 
 ```
+#### 2. Enter the web page using the http IP address (use <ctrl>+<click> in your terminal)
+
 
 ## Missions
-- [ ] TBD
+- [x] Frames control
+- [ ] Increase performance
+- [ ] Image types Implementation
+- [ ] Table checkbox control +  table oriantation
+- [ ] Adding probability data to image display options
 
 ## Relevant links
 [Dash tutorial](https://dash.plotly.com/)\
