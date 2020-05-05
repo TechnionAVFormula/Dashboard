@@ -24,7 +24,7 @@ pip install dash==1.11.0
 ``` 
 python .\Script.py 
 ```
-#### 2. Enter the web page using the http IP address (use <ctrl>+<click> in your terminal)
+#### 2. Enter the web page using the http IP address (ctrl + click the IP in your terminal)
 
 
 ## Missions
