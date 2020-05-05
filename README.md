@@ -1,6 +1,12 @@
 
 # Perception Dashboard 
- Developed in Plotly
+
+## Description
+#### 
+This repo supports perception's dashboard, developed in Plotly. 
+The dashboard shows two images of the same frame, side by side. It enables to add a different feature to each image (e.g. left image with bounding boxes, right image with xyz coordinates) for comparision. 
+The dashboard offers a visual tool for debugging our performances in a frame-by-frame fashion.
+ 
  
   - [Requirements](#Requirements)
   - [Usage](#usage)
